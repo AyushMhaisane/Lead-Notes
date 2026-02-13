@@ -53,6 +53,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 git clone [https://github.com/AyushMhaisane/Lead-Notes.git](https://github.com/AyushMhaisane/Lead-Notes.git)
+
 cd Lead-Notes
 
 ### 2. Backend Setup
