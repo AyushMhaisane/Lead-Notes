@@ -21,7 +21,7 @@ A full-stack application for managing lead notes with secure authentication, ima
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repo
-```bash
+
 git clone [https://github.com/YOUR_USERNAME/lead-notes-app.git](https://github.com/YOUR_USERNAME/lead-notes-app.git)
 cd lead-notes-app
 
